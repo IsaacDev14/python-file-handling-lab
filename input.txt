@@ -1,0 +1,5 @@
+Python is fun.
+File handling is powerful.
+We can read and write files.
+Error handling makes programs robust.
+Practice makes perfect!
